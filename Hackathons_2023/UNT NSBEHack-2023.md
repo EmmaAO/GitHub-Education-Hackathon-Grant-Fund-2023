@@ -14,6 +14,8 @@ Attendees	First Time Hackers	Projects
 37	17	https://unt-nsbe-hackathon.devpost.com/project-gallery
 
 
+Attendees	First Time Hackers	Projects
+37	17	https://unt-nsbe-hackathon.devpost.com/project-gallery
 
 
 ## Tech Impact / Diversity 
