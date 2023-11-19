@@ -18,7 +18,7 @@ Our sponsors, Peterbilt, MLH, Carbon 6 and CoreLogic hosted workshops and did pr
 ## Tech Impact / Diversity 
 
 NSBE targeted undergraduate students from various majors and ethnicities. We focused on being inclusive, bringing people together from diverse backgrounds. 
-Our female participants percentage was 26%. We had one non-binary person atttend the every.
+Our female participants percentage was 26%. We had one non-binary person attend the event.
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
