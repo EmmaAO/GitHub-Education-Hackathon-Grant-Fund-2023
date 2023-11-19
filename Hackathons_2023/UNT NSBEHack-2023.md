@@ -35,6 +35,10 @@ Our female participants percentage was 26%. We had one non-binary person atttend
 
 |------13-------:|--------24----:|------0---:|---0---:|
 
+| Asia Pacific | North America | Europe / UK | Other |
+|---------------:|--------------:|------------:|---------:|
+|{# of hackers}|{# of hackers}|{0}|{# of hackers}|
+
 
 
 ## Impact of GitHub Grant
