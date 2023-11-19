@@ -6,7 +6,7 @@
 
 ## Event Summary
 
-The fourth annual UNT NSBEHack was a 24-hour event that was open to all majors and students all across Texas. We provided 75 students with an opportunity to showcase their technical skills, present their talents, and expand their social and professional networks. 
+The fourth annual UNT NSBEHack was a 24-hour event that was open to all majors and students all across Texas. We provided students with an opportunity to showcase their technical skills, present their talents, and expand their social and professional networks. 
 The event featured three distinct challenges: a software challenge, a product design challenge, and a presentation challenge, ensuring a diverse and engaging experience for all participants. 
 Our sponsors, Peterbilt, MLH, Carbon 6 and CoreLogic hosted workshops and did presentations to give the participants the chance to learn about their company and learn about internship opportunities.
 
