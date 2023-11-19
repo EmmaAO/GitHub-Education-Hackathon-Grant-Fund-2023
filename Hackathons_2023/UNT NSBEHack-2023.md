@@ -12,7 +12,7 @@ Our sponsors, Peterbilt, MLH, Carbon 6 and CoreLogic hosted workshops and did pr
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{37}|{17}|{https://unt-nsbe-hackathon.devpost.com/project-gallery}| 
+|37|17|https://unt-nsbe-hackathon.devpost.com/project-gallery| 
 
 
 ## Tech Impact / Diversity 
@@ -23,14 +23,14 @@ Our female participants percentage was 26%. We had one non-binary person attend 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
 |---------------:|------------:|------------:|---------:|--------:|
-|{0}|{8}|{4}|{17}|{9}|
+|0|8|4|17|9|
 
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{13}|{24}|{0}|{0}|
+|13|24|0|0|
 
 
 
