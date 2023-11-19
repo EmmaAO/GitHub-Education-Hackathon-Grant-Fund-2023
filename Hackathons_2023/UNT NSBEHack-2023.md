@@ -12,7 +12,7 @@ Our sponsors, Peterbilt, MLH, Carbon 6 and CoreLogic hosted workshops and did pr
 
 | Attendees |First Time Hackers| Projects|
 |---------------:|--------------:|------------:|
-|{37}|{17}|[{https://unt-nsbe-hackathon.devpost.com/project-gallery}| 
+|{37}|{17}|{https://unt-nsbe-hackathon.devpost.com/project-gallery}| 
 
 
 ## Tech Impact / Diversity 
