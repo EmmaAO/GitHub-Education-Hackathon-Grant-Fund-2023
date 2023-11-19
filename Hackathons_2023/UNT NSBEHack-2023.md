@@ -51,6 +51,7 @@ https://devpost.com/software/chooseurbot-and-aidbot
 OpenAI:
 
 The chatbot uses OpenAI algorithms to understand the student's learning preferences and needs. It then provides personalized recommendations for educational resources and provides answer based o the prompt given by the developers.
+
 https://devpost.com/software/buzzai-qm5d7
 
 Charripm: 
@@ -71,6 +72,7 @@ https://devpost.com/software/charripm
 
 ## Our Videos
 https://www.instagram.com/reel/CybkcuRvtO1/?igshid=MTc4MmM1YmI2Ng==
+
 https://www.instagram.com/reel/Cygw4NlPkxW/?utm_source=ig_web_copy_link
 
 ## What’s Next?
