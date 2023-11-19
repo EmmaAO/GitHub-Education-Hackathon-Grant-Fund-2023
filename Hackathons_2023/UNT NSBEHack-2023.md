@@ -1,4 +1,4 @@
-# {UNT NSBEHack}
+# UNT NSBEHack
 - October 13th – October 14th
 - The University of North Texas / National Society of Black Engineers
 - United States, Texas, Denton
