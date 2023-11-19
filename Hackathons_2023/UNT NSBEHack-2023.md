@@ -40,7 +40,7 @@ The prizes helped keep our participants motivated and encouraged throughout the 
 
 ## Top Projects
 
-UNT NSBE created some amazing projects for participants to work. All the teams collaborate with GitHub, which help make their projects successful.
+UNT NSBE created some amazing projects for participants to work on. All the teams collaborate with GitHub, which help make their projects successful.
 Here are some of the projects:
 
 ChooseUrBot and AidBot:
