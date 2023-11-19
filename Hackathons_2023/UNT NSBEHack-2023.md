@@ -1,4 +1,4 @@
-## UNT NSBEHack
+# {UNT NSBEHack}
 - October 13th – October 14th
 - The University of North Texas / National Society of Black Engineers
 - United States, Texas, Denton
@@ -10,12 +10,9 @@ The fourth annual UNT NSBEHack was a 24-hour event that was open to all majors a
 The event featured three distinct challenges: a software challenge, a product design challenge, and a presentation challenge, ensuring a diverse and engaging experience for all participants. 
 Our sponsors, Peterbilt, MLH, Carbon 6 and CoreLogic hosted workshops and did presentations to give the participants the chance to learn about their company and learn about internship opportunities.
 
-Attendees	First Time Hackers	Projects
-37	17	https://unt-nsbe-hackathon.devpost.com/project-gallery
-
-
-Attendees	First Time Hackers	Projects
-37	17	https://unt-nsbe-hackathon.devpost.com/project-gallery
+| Attendees |First Time Hackers| Projects|
+|---------------:|--------------:|------------:|
+|{37}|{17}|[{https://unt-nsbe-hackathon.devpost.com/project-gallery}| 
 
 
 ## Tech Impact / Diversity 
@@ -25,19 +22,15 @@ Our female participants percentage was 26%. We had one non-binary person atttend
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-
-|-------0--------:|------8--------:|------4------:|----17----:|----9----:|
+|---------------:|------------:|------------:|---------:|--------:|
+|{0}|{8}|{4}|{17}|{9}|
 
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
-
-|------13-------:|--------24----:|------0---:|---0---:|
-
-| Asia Pacific | North America | Europe / UK | Other |
 |---------------:|--------------:|------------:|---------:|
-|{# of hackers}|{# of hackers}|{0}|{# of hackers}|
+|{13}|{24}|{0}|{0}|
 
 
 
