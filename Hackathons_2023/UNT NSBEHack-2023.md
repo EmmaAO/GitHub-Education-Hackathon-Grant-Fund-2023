@@ -10,13 +10,8 @@ The fourth annual UNT NSBEHack was a 24-hour event that was open to all majors a
 The event featured three distinct challenges: a software challenge, a product design challenge, and a presentation challenge, ensuring a diverse and engaging experience for all participants. 
 Our sponsors, Peterbilt, MLH, Carbon 6 and CoreLogic hosted workshops and did presentations to give the participants the chance to learn about their company and learn about internship opportunities.
 
-
-## Event Metrics 
-
-Attendees	offline teams	online teams	Projects
-99 offline Attendees	26 teams	44 teams	45 projects submitted
 | Attendees |First Time Hackers| Projects|
-|37|17|https://unt-nsbe-hackathon.devpost.com/project-gallery|
+|-------37------:|-------17-----:|-----https://unt-nsbe-hackathon.devpost.com/project-gallery-------:|
 
 
 ## Tech Impact / Diversity 
@@ -26,13 +21,14 @@ Our female participants percentage was 26%. We had one non-binary person atttend
 
 ### What race & ethnicities did your hackers identify as?
 | Native American / <br> Alaskan Native | Black / <br> African American | Hispanic / <br> Latinx | Asian | White |
-|0|8|4|17|9|
+|-------0--------:|------8--------:|------4------:|----17----:|----9----:|
 
 
 
 ### Where were your hackers from?
 | Asia Pacific | North America | Europe / UK | Other |
-|13|24|0|0|
+|------13-------:|--------24----:|------0---:|---0---:|
+
 
 
 ## Impact of GitHub Grant
